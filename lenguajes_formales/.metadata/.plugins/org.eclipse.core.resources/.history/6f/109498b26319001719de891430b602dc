@@ -1,0 +1,30 @@
+package com.iucmc.lenguajes.formales.ejemplo;
+
+import java.util.regex.*;
+
+public class Alfabeto {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		  
+
+	}
+	
+	public boolean esAlfabeto(String palabra) {
+		Pattern p = Pattern.compile("[^A-Za-z]");
+	    Matcher m = p.matcher(input);
+	    StringBuffer sb = new StringBuffer();
+	    return !m.find();
+	}
+	
+	public String obtenerSufijo(String palabra) {
+		
+	}
+	
+	public String obtenerPrefijo(String palabra) {
+		
+	}
+
+}

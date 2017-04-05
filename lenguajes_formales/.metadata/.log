@@ -1,0 +1,664 @@
+!SESSION 2017-04-04 12:49:42.106 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:43.698
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|com/sun/jndi/cosnaming/CNCtx.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:43.715
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|com/sun/jndi/rmi/registry/RegistryContext.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:43.730
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|com/sun/media/sound/JDK13Services.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:43.734
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|com/sun/media/sound/Platform.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:43.745
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|com/sun/media/sound/SoftSynthesizer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.365
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/nio/file/Files.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.399
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/Instant.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.400
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/LocalDate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.401
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/LocalDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.402
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/LocalTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.403
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/MonthDay.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.403
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/OffsetDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.404
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/OffsetTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.407
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/Year.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.407
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/YearMonth.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.410
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/ZonedDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.411
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/chrono/AbstractChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.418
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/chrono/HijrahChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.431
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/format/DateTimeFormatter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.436
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/format/DateTimeFormatterBuilder$ReducedPrinterParser.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.439
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/format/DateTimeFormatterBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.449
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/temporal/TemporalAdjusters.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.449
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/time/temporal/TemporalQueries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.465
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Collections$CheckedList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.466
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Collections$CheckedMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.468
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Collections$CopiesList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.472
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Collections$UnmodifiableMap$UnmodifiableEntrySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.494
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/PrimitiveIterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.494
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/PrimitiveIterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.494
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/PrimitiveIterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.509
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/TreeMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.514
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.542
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/concurrent/ConcurrentSkipListMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.586
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/BiConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.586
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/BiPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.587
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/Consumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.588
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/DoubleConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.589
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/DoublePredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.590
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/DoubleUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.590
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/IntConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.590
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/IntPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.590
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/LongConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.590
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/LongPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.591
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/LongUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.592
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/Predicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.592
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/UnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.620
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/regex/Pattern.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.623
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/AbstractPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.626
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Collectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.626
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/DistinctOps$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.628
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/DoublePipeline$5$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.631
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/DoublePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.632
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/FindOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.634
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/ForEachOps$ForEachOrderedTask.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.636
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/IntPipeline$7$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.638
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/IntPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.640
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/LongPipeline$6$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.643
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/LongPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.646
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/MatchOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.646
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Node$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.647
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Node$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.647
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Node$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.647
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Node.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.648
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.649
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.649
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.649
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.666
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/ReferencePipeline$10$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.671
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/ReferencePipeline$8$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.671
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/ReferencePipeline$9$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.673
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/ReferencePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.675
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/SliceOps$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.675
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/SliceOps$3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.675
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/SliceOps$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.676
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/SliceOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.679
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/SortedOps$RefSortingSink.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.683
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/SpinedBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.686
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$DistinctSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.686
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$DoubleWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.687
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$IntWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.688
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$LongWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.688
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.688
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.689
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.689
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.693
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/StreamSpliterators$WrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.697
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/stream/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.816
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|javax/management/remote/rmi/RMIConnectionImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.821
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|javax/management/remote/rmi/RMIConnector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:44.882
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|javax/sql/rowset/spi/SyncFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.138
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|org/jcp/xml/dsig/internal/dom/Policy.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.195
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/applet/AppletPanel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.373
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/image/ImageCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.374
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/image/MultiResolutionCachedImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.386
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/font/CreatedFontTracker$TempFileDeletionHook.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.432
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/java2d/opengl/OGLRenderQueue.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.464
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/misc/ObjectInputFilter$Config$Global.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.465
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/misc/ObjectInputFilter$Config.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.471
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/net/ExtendedOptionsImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.507
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/net/www/protocol/http/HttpURLConnection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.523
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/nio/ch/ThreadPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.572
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/registry/RegistryImpl$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.572
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/registry/RegistryImpl$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.573
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/registry/RegistryImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.625
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/transport/DGCImpl$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.625
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/transport/DGCImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.628
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/transport/Transport.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.634
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/rmi/transport/tcp/TCPTransport$ConnectionHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.651
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/security/krb5/KrbServiceLocator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.727
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/security/smartcardio/CardImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.788
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/security/x509/X509CertImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.794
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/swing/JLightweightFrame.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.828
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/datatransfer/SunClipboard.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.830
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/lang/UNIXProcess$Platform.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.830
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/lang/UNIXProcess.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:45.943
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|javax/swing/JTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.014
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/io/ObjectInputStream.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.040
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/image/MultiResolutionToolkitImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.079
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/font/SunFontManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.089
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/AWTAutoShutdown.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.095
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/awt/SystemColor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.103
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/IntUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.103
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/BiFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.103
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/BinaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.105
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Spliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.105
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Spliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.105
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Spliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.122
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|javax/swing/plaf/metal/MetalLookAndFeel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.132
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/java2d/Disposer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.148
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/X11GraphicsDevice.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.150
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|sun/awt/X11/XToolkit.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.212
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/awt/GraphicsEnvironment.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.225
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|javax/swing/JComponent.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.232
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/function/Function.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.235
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/concurrent/ConcurrentMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.236
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/BitSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.237
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/nio/CharBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.244
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Arrays.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.247
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Map$Entry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.249
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/util/Comparator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.260
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/lang/reflect/AnnotatedElement.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:46.261
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar|java/lang/CharSequence.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.132
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.133
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.133
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.133
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.133
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.134
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.135
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.136
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.143
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.144
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.145
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSAdapter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.145
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.146
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.147
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.148
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.148
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.149
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.149
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeMath$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.150
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/DataPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.150
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.150
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.151
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/Global.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.152
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDebug$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.153
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.153
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.154
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSON$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.154
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.154
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.155
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.155
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/GenericPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.155
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.156
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/AccessorPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.156
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.156
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.156
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.157
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.157
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.158
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.159
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.159
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.160
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.161
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.163
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.164
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.164
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.164
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.165
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.165
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.165
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.167
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.167
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.167
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.168
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.168
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.169
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.169
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.170
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.170
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.170
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.171
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJava$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.172
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.172
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.173
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExpExecResult.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.173
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.173
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.176
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.177
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.177
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.178
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.178
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.179
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.180
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.180
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/ArrayBufferView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.181
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.182
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.182
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2017-04-04 13:05:48.182
+!MESSAGE The Java indexing could not index /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
